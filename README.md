@@ -1,4 +1,13 @@
-### Hi there 👋
+### Moin 🏰
+
+I´m a 26 yer old student from Hamburg. I am learning to code at the moment!
+
+- 🔭 I’m currently working on a Golf App
+- 🌱 I’m currently learning Marketing and Development
+- 🤔 I’m looking for help with Flutter
+- 📫 How to reach me: o.c.haidinger@gmail.com
+
+![Bild O.H.](https://upload.wikimedia.org/wikipedia/commons/b/ba/Anonymous_Hacker.png)
 
 <!--
 **OswaldHaidinger/OswaldHaidinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
